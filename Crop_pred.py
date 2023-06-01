@@ -2,7 +2,7 @@
 #importing the required libraries
 import sys
 import pandas as pd
-import numpy as np
+import numpy asnp
 from sklearn.model_selection import train_test_split
 
 #Reading the csv file
